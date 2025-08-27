@@ -26,6 +26,7 @@ This project implements a **Long Short-Term Memory (LSTM)** based deep learning 
 - Predictions aligned closely with ground truth, especially for regular usage patterns.  
 - **Metrics:** Low MAE and RMSE values confirmed accuracy.  
 - Occasional deviations occurred during sudden spikes, showing the model’s sensitivity to irregular behavior.  
+<img width="839" height="528" alt="download (2)" src="https://github.com/user-attachments/assets/ef092132-1121-4ffe-bdd4-d4b59e692156" />
 
 ---
 
